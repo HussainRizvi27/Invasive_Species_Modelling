@@ -1,0 +1,100 @@
+Lake Winnipeg Zebra Mussel Data 2017 to 2019//Donnes sur la moule zÈbrÈe du lac Winnipeg de 2017 Ö 2019,,,,,,,,,,,,,,,,,,,,,,,,,,
+Data File Name // Nom du fichier de donnÇes,LW_Zebra_Mussel_Data_LW_donnÈes_moule zÈbrÈe_LW_2017_2019.csv,,,,,,,,,,,,,,,,,,,,,,,,,
+Data Version // Version de donnÇes,V2.0,,,,,,,,,,,,,,,,,,,,,,,,,
+Data DOI // DonnÇes DOI,409b9de2-14e1-42c9-a7c1-0c307bece116,,,,,,,,,,,,,,,,,,,,,,,,,
+Date File Generated // Date de fichier gÇnÇrÇ,14-Oct-20,,,,,,,,,,,,,,,,,,,,,,,,,
+Organization Name // Nom de l'organisation,Environment and Climate Change Canada // Environnement et Changement climatique Canada,,,,,,,,,,,,,,,,,,,,,,,,,
+Organization Conctact Information // Coor-donnÇes de l'organisation,"200 Sacre-Coeur Blvd, Gatineau, Quebec, K1A 0H3 // 200, boul. SacrÇ Coeur, Gatineau (Quebec) K1A 0H3",,,,,,,,,,,,,,,,,,,,,,,,,
+Context Note // Notre contextuelle,,,,,,,,,,,,,,,,,,,,,,,,,,
+Email // Courriel,David.Depew@Canada.ca,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal Investigator // Chercheur principal,David Depew,,,,,,,,,,,,,,,,,,,,,,,,,
+Principal Investigator Affiliation // Affiliation du chercheur principal,"Environment and Climate Change Canada, Science and Techonology Branch, Water Science and Technology Directorate, Watershed Hydrology and Ecology Research Division // Environnement et Changement climatique Canada, Direction gÇnÇrale des sciences et de la technologie, Direction des sciences et technologie - Eau, Division de la recherche hydrologique et Çcologique sure les bassins hydrologique",,,,,,,,,,,,,,,,,,,,,,,,,
+Principal Invesigator Contact Information // CoordonÇes du chercheur principal,David.Depew@ec.gc.ca,,,,,,,,,,,,,,,,,,,,,,,,,
+Data Stewards // Intendentants des donnÇes,David Depew,,,,,,,,,,,,,,,,,,,,,,,,,
+Open Government Licence-Canada // Licence du gouvernement ouverte,http://open.canada.ca/en/open-government-licence-canada // http://ouvert.canada.ca/fr/licence-du-gouvernement-ouvert-canada,,,,,,,,,,,,,,,,,,,,,,,,,
+Attribution // Attribution,"Environment and Climate Change Canada, [Year Accessed].  Data File Name [Name of data file], generated [Year-Month-Day]. Accessed on [Year-Month-Day] from [Name and URL of the data portal].",,,,,,,,,,,,,,,,,,,,,,,,,
+Acknowledgement Statement // ênoncÇ de reconnaissance,"The author(s) acknowledge Environment and Climate Change Canada and [if applicable, enter the names of any co-contributors, co-funding agencies, and/or collaborators] for the provision of [type of] data accessed from [Name and URL of the data portal].",,,,,,,,,,,,,,,,,,,,,,,,,
+Quality Assurance Level and Disclaimer // Niveau d'assurance de la qualitÇ,"Level 3, defined as data that have received intense scruitiny through analysis or use in modeling. // DÇfinition du niveau3 : donnÇes rigoureusement examinÇes, au moyen d'analyses ou de modÇlisations.",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,,,,,,
+Table S1,"Table of mean zebra mussel densities (#/m2), shell free dry mass (SFDM; g/m2) fo each of the surveys conducted in Lake Winnipeg 2017-2019. Also provided are site ID, latitude and longitude, sample depth (m), substrate types, and weighted Phi score. N.S. indicates no sample taken.",,,,,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,Fall 2017,,Summer 2018,,Spring 2019,,Summer 2019,,Fall 2019,,Fall 2017,,Summer 2018,,Spring 2019,,Summer 2019,,Fall 2019,
+Basin,Site Name ,Latitude,Longitude,Depth,Substrate,Weighted Phi,Mean_Density (#/m2),SD_Density,Mean_Density (#/m2),SD_Density,Mean_Density (#/m2),SD_Density,Mean_Density (#/m2),SD_Density,Mean_Density (#/m2),SD_Density,Mean_SFDM (g/m2),SD_SFDM,Mean_SFDM (g/m2),SD_SFDM,Mean_SFDM (g/m2),SD_SFDM,Mean_SFDM (g/m2),SD_SFDM,Mean_SFDM (g/m2),SD_SFDM
+South,Southshore (SS),50.4082,-96.9019,<1,"Sand, Cobble",1.01,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0,,,,,,,,,,,
+South,Lester Beach (LB),50.58119,-96.585,<1,"Sand, Cobble, Rock, Boulder",1.2,N.S.,N.S.,N.S.,N.S.,2,2.2,1,0.8,N.S,N.S,N.S,N.S,N.S,N.S,0.01,0.01,0.004,,N.S,N.S
+South,Sunset Beach (SB),50.49665,-96.5994,<1,"Rock, Cobble, Sand, Clay, Boulder",-3.51,N.S.,N.S.,N.S.,N.S.,1,0.5,6,4.6,3,0.7,N.S.,N.S.,N.S.,N.S.,0.009,,0.097,0.12,0.026,0.02
+South,Willow Creek (WC),50.56596,-96.9892,<1,Sand,2,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,18,13,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.13,0.07,N.S.,N.S.
+South,Gimli (GM),50.63828,-96.9838,<1,"Sand , Cobble, Rock",-0.6,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,1,1.41,21,36,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.02,0.009,0.26,0.45
+South,Ponemah (PO),50.47155,-96.9525,<1,Sand,2,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,6,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.219,,N.S.,N.S.
+South,Camp Morton (CM),50.69879,-96.9925,<1,"Sand, Rock, Gravel, Boulder",-2.52,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,82,123,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.45,0.76,N.S.,N.S.
+South,Traverse Bay (TB),50.65217,-96.333,<1,"Sand, Boulder",0.6,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.
+South,Black River (BR),50.83722,-96.3472,<1,"Bedrock, Sand, Cobble",-6.86,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.
+South,Hillside Beach (HB),50.6784,-96.55,<1,Sand,2,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,38,55,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.15,0.19,0,
+South,Hecla (HC),51.13099,-96.663,<1,"Rock, Cobble, Gravel,",-7.33,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,25,43,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.006,0.01,0,
+South,Manigotogan (MN),51.18024,-96.3691,<1,"Rock, Bedrock, Cobble, Boulder, Sand",-6.22,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,3802,5185,4790,9144,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,36.2,49.87,64.7,129.5
+South,4NS,50.4097,-96.9029,3,"Sand, Mud",3.17,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,,0,
+South,5NS,50.6706,-96.5592,3,"Rock, Boulder, Bedrock",-8.05,N.S.,N.S.,N.S.,N.S.,433,612,N.S.,N.S.,533,779,N.S.,N.S.,N.S.,N.S.,1.23,1.74,N.S,N.S,5.64,8.59
+South,3NS,50.6385,-96.983,3,"Rock, Sand",-1.24,N.S.,N.S.,2395,2727,692,1199,0,,5006,1646,N.S.,N.S.,6.07,7.13,2.54,4.39,0,,19.95,8.79
+South,6NS,51.1311,-96.6631,3,Sand,2,N.S,N.S,4703,7664,0,,0,,0,,N.S,N.S,16.44,27.11,0,,0,,0,
+South,7NS,51.1806,-96.369,3,"Sand, Rock",-1.24,N.S,N.S,130,224,43,,808,1015,72,125,N.S,N.S,1.02,1.76,0.61,,16.28,21.98,0.14,0.25
+South,1,50.3858,-96.8121,3.8,"Clay, Mud, Silt",8.375,N.S.,N.S,N.S.,N.S,0,,0,,0,,N.S.,N.S,N.S.,N.S,0,,0,,0,
+South,2,50.4336,-96.8342,5.8,"Clay, Mud",9,0,,N.S.,N.S,0,,0,,0,,0,,N.S.,N.S,0,,0,,0,
+South,3B,50.4582,-96.6887,6.1,"Clay, Mud",9,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+South,3C,50.4623,-96.621,5.8,"Clay, Mud",9,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+South,W12,50.5163,-96.834,8.3,"Clay, Sand, Mud",8.33,0,,0,,0,,6,11,0,,0,,0,,0,,0.15,,0,
+South,60B,50.6337,-96.9506,8.3,"Clay, Mud",9,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+South,60C,50.5587,-96.6669,8.8,"Clay, Mud, Silt",8.4,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+South,5,50.6794,-96.6373,10.9,"Clay, Mud",9,0,,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,
+South,7,50.6495,-96.3784,5.2,"Clay, Silt",8.17,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+South,36S,50.7333,-96.9292,9.5,"Clay, Mud",9,0,,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,
+South,59,50.696,-96.7898,10.7,"Clay, Silt, Mud",8.8,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+South,W10,50.8458,-96.7686,10.9,"Clay, Silt, Mud, Sand",8.34,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+South,W11,50.7581,-96.4491,8.2,"Clay, Mud, Gravel",7.6,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,,0,
+South,9,50.8795,-96.4249,9.8,"Clay, Mud, Gravel, Rock",5.88,N.S.,N.S.,273,293,0,,76,57,1087,365,N.S.,N.S.,3.35,4.3,0,,2.07,2.64,26.96,16.1
+South,W9,51.022,-96.5836,11.3,"Clay, Mud, Silt",8.68,0,,0,,0,,0,,19,33,0,,0,,0,,0,,0.012,0.021
+South,57B,50.9748,-96.8752,6.7,"Gravel, Silt, Clay, Sand",0.7,629,1007,2815,2458,419,,699,473,5530,1650,4.25,6.21,14.38,12.31,0.79,,3.33,2.38,16.34,4.53
+South,12B,51.1329,-96.6214,10.4,"Gravel, Sand, Silt, Clay",4.23,N.S.,N.S.,N.S.,N.S.,133,,451,539,2510,2059,N.S.,N.S.,N.S.,N.S.,1.09,,1.6,1.95,1.62,0.98
+South,46S,51.1415,-96.4214,8.8,"Clay, Silt, Mud, Sand",7.1,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+Narrows,Loon Straits (LS),51.53451,-96.5945,<1,"Bedrock, Silt, Cobble, Rock",-3.06,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,59,113,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.36,0.78,N.S.,N.S.
+Narrows,Pine Dock (PD),51.60388,-96.7259,<1,"Rock, Sand",-5.21,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0,
+Narrows,Bloodvein (BV),51.86076,-96.807,<1,"Cobble, Bedrock, Rock",-6.06,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0,
+Narrows,Berens River (BN),52.40309,-97.1206,<1,Sand,2,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,
+Narrows,Paterson Bay (PB),52.40351,-97.1186,<1,Sand,2,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.
+Narrows,Black Island (BI),51.19708,-96.403,<1,"Cobble, Sand",-1.26,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,8,3.6,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0.008,0.004,N.S.,N.S.
+Narrows,8NS,51.599,-96.731,3,Rock,-7.72,N.S.,N.S.,0,,0,,29,49,14,25,N.S.,N.S.,0,,0,,0.26,0.45,0.07,0.066
+Narrows,44S,51.2168,-96.7246,6.7,"Clay, Mud",9,0,,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,
+Narrows,13B,51.3379,-96.5789,15.2,"Clay, Silt",8.75,N.S.,N.S.,N.S.,N.S.,0,,0,,13,11,N.S.,N.S.,N.S.,N.S.,0,,0,,0.045,0.031
+Narrows,W13,51.4413,-96.6334,9.4,"Clay, Silt, Mud",8.58,0,,0,,0,,6,11,0,,0,,0,,0,,0.165,0.29,0,
+Narrows,W8,51.7748,-96.8629,14.9,"Gravel, Sand, Clay, Rock",-1.56,1517,2371,1627,666,2459,,1576,1439,972,958,8.61,12.68,10.67,4.01,17.6,,16.58,14.88,11.7,10.78
+Narrows,54,52.0007,-97.0416,12.3,"Clay, Mud, Silt",8.68,0,,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,
+Narrows,53,52.121,-97.1287,11.3,"Mud, Clay, Silt",8.75,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+Narrows,68,52.104,-97.4168,12.2,"Clay, Silt, Rock",4.66,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+Narrows,W14,52.2702,-97.1918,10.4,"Mud, Clay, Silt",8.58,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,Grand Rapids (GR),53.21313,-99.2675,,"Cobble, Boulder, Sand",-4.26,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0,,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0,
+North,13NS,52.136,-97.542,3,Rock,-7.72,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+North,2NS,52.6392,-98.7092,3,"Sand, Rock",-0.43,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+North,12NS,53.212,-99.266,3,"Sand, Rock",4.23,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+North,11NS,53.852,-98.503,3,"Sand, Rock",-1.24,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.,0,,N.S.,N.S.,N.S.,N.S.,0,,N.S.,N.S.,0,
+North,1NS,52.904,-97.3882,3,Sand,2,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,,0,
+North,65,52.1704,-97.8549,6.4,"Gravel, Clay",2.65,N.S.,N.S.,N.S.,N.S.,0,,152,264,N.S.,N.S.,N.S.,N.S.,N.S.,N.S.,0,,0.62,1.06,N.S.,N.S.
+North,64,52.2411,-97.6288,16.5,"Clay, Mud, Silt",8.75,0,,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,
+North,W7,52.4336,-97.3376,15.5,"Clay, Silt, Gravel, Bedrock, Mud",6.42,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,W6,52.6421,-97.7335,16.5,"Clay, Silt, Mud",8.19,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,W5,52.7964,-97.563,14.3,"Sand, Mud",3.05,N.S.,N.S.,0,,N.S.,N.S.,0,,0,,N.S.,N.S.,0,,N.S.,N.S.,0,,0,
+North,45,52.637,-98.3244,13.1,"Sand, Gravel, Mud, Rock",1.16,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,43S,52.6546,-98.6919,7.3,"Gravel, Rock, Sand",-2.75,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,41S,52.8205,-98.4969,11.6,"Gravel, Sand, Clay",1.83,N.S.,N.S.,N.S.,N.S.,0,,0,,6,11,N.S.,N.S.,N.S.,N.S.,0,,0.008,0.013,0,
+North,W4,52.8656,-98.2502,16.5,"Clay, Mud, Silt",8.72,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,19,53.0257,-97.7001,17.1,"Mud, Clay, Sand",8.41,0,,N.S.,N.S.,0,,0,,699,1211,0,,N.S.,N.S.,0,,0,,1.55,2.68
+North,39,53.0751,-98.1995,17.4,"Clay, Mud",9,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,W3,53.171,-97.8372,16.5,"Clay, Mud, Silt",8.72,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,20,53.2001,-97.6333,11,"Clay, Rock",5.65,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+North,23S,53.2038,-98.616,16.2,"Mud, Clay, Silt",8.79,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,,0,
+North,W1,53.3749,-98.3864,16.7,"Clay, Mud, Silt",8.47,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,21,53.4131,-97.9083,16.2,"Mud, Clay, Sand",8.41,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+North,28,53.2127,-99.2331,7.9,"Sand, Clay",2.58,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
+North,W2,53.2627,-99.0244,14,"Clay, Mud, Silt",8.58,0,,0,,0,,0,,0,,0,,0,,0,,0,,0,
+North,26S,53.4123,-98.7666,15.2,"Clay, Mud, Silt",8.3,0,,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,
+North,22,53.6167,-97.967,14.9,"Gravel, Mud, Silt",0.56,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,,0,
+North,34S,53.6626,-98.4829,15.5,"Clay, Mud, Sand",8.41,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,,0,
+North,31,53.5998,-98.9252,11.3,"Gravel, Clay",3.22,N.S.,N.S.,0,,0,,0,,0,,N.S.,N.S.,0,,0,,0,,0,
+North,33,53.8335,-98.5,8.8,"Clay, Mud, Sand",8.33,N.S.,N.S.,N.S.,N.S.,0,,0,,0,,N.S.,N.S.,N.S.,N.S.,0,,0,,0,
